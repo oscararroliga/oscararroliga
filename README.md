@@ -1,4 +1,4 @@
-### Hi there 👋
+ ¡Hola, soy Óscar! 👋
 
 <!--
 **oscararroliga/oscararroliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+¡Hola! Mi nombre es Oscar Arróliga, trabajo en desarrollo web Front-end. Utilizo el enorme potencial de WordPress para el desarrollo de sitios web empresariales, blogs o eCommerce utilizando WooCommerce para la creación de Tiendas Virtuales. 
+En el eterno camino del aprendizaje, me encuentro (2021) profundizando en el lenguaje JavaScript. Tengo como meta desarrollar al menos un proyecto con React al finalizar el año. 
+A mediano plazo tengo planeado aprender Python y poder hacer uso de este genial lenguaje, útil en muchos campos. 
+
+
+Si necesitas ayuda o contratarme para el desarrollo de tu proyecto, puedes escribirme y con gusto hablamos :D
